@@ -1,0 +1,19 @@
+body {
+	background-color:rgba(100,100,50,0.3);
+}
+.sidebar{
+	background-color:rgba(20,50,50,0.3);
+}
+.btn-primary:hover{
+	background-color:green;
+	border:1px green;
+}
+.btn-primary{
+	background-color:grey;
+	border:1px grey;
+
+}
+#email, #subject,.form-control{
+	background-color:rgba(0,255,0,0.1)
+}
+
